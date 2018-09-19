@@ -97,4 +97,15 @@ SELECT*FROM my_view (可以看你的view)
 Drop View my_view (删除你创建的view)
 
 
-/* Data Governance and Profiling
+/* Using SQL for Data Science, part 1 */
+Data Understanding(Most important step)
+	1. Understanding relationships in your data
+	2. NULL value
+	3. String values
+	4. Date and times
+
+
+Business Understanding
+	1. Ask questions about business problem you are solving
+	2. Hard to separate data and business understanding
+
